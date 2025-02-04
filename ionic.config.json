@@ -1,0 +1,7 @@
+{
+  "name": "ai11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
